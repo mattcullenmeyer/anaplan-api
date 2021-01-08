@@ -1,0 +1,5 @@
+# Files to ignore
+.__init__.py
+
+# Directories to ignore
+__pycache__/
